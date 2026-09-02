@@ -8,5 +8,6 @@
 * Day-06 ---> Vim Editor
 * Day-07 ---> Linux User & Group Management + SSH Password Authentication
 * Day-08 ---> Linux File Permissions & Ownership
+* Day-09 ---> SSH Key-Based Authentication for a Linux User
 
 
